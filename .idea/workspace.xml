@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="13748c70-6d1d-4c3e-97de-0dd15a5cb2c5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="13748c70-6d1d-4c3e-97de-0dd15a5cb2c5" name="Changes" comment="LoginDDT sin POM">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pages/loginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pages/loginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/StepDefinitions/LoginDDT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/StepDefinitions/LoginDDT.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +47,9 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\sofia.buitrago\Documents\LoginDDt\src\test\resources\Drivers" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="StepDefinitions" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="Feature: LoginDDT" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
@@ -83,7 +85,20 @@
       <option name="presentableId" value="Default" />
       <updated>1721139882722</updated>
     </task>
+    <task id="LOCAL-00001" summary="LoginDDT sin POM">
+      <option name="closed" value="true" />
+      <created>1721147113968</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1721147113968</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="LoginDDT sin POM" />
+    <option name="LAST_COMMIT_MESSAGE" value="LoginDDT sin POM" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
